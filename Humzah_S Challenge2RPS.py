@@ -19,7 +19,7 @@ if computer == player:
     print ('its a tie')
     
 elif (computer == 'r' and player =='p'):
-    print ('you win!')
+    print ('you win!!')
 elif (computer == 'p' and player =='r'):
     print ('computer wins')
     
